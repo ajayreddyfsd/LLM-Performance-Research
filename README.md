@@ -13,6 +13,5 @@ This project aims to push the boundaries of prompt engineering and deliver actio
 
 ![Img2](https://github.com/user-attachments/assets/4e4627c5-4786-461e-8d73-358acc45bb37)
 
-![Img3](https://github.com/user-attachments/assets/c5737bbc-d443-4d3e-91f7-a4c12ec3b849)
 
 
