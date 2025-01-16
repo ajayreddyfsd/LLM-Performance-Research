@@ -4,7 +4,7 @@ This research explores the impact of emotional stimuli, persona-driven prompts, 
 
 ## Key Highlights
 - 1824 tests across 152 MMLU questions in astronomy.
-- Testing of emotional stimuli, persona-driven cues, and zero-shot prompts.
+- Testing of emotional stimuli, persona-driven cues, and zero-shot CoT prompts.
 - Comparison of multiple leading LLMs: Gemini, OpenAI, and Anthropic.
 
 This project aims to push the boundaries of prompt engineering and deliver actionable insights for improving AI responses in complex tasks.
