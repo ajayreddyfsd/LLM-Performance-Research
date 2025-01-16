@@ -1,0 +1,24 @@
+2025-01-16T12:59:17.663Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T12:59:17.811Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T12:59:17.821Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T12:59:17.832Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T12:59:18.955Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T12:59:19.110Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T12:59:19.124Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T12:59:19.135Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:03:59.265Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:03:59.330Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:03:59.340Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:03:59.350Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:03:59.441Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:03:59.498Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:03:59.508Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:03:59.519Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:04:24.719Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:04:24.739Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:04:24.749Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:04:24.759Z [ERROR]: API call error: TypeError: Cannot read properties of undefined (reading 'message')
+2025-01-16T13:04:25.871Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:04:25.993Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:04:26.005Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-01-16T13:04:26.017Z [ERROR]: Anthropic Messages API call error: Error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
